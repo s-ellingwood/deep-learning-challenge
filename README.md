@@ -1,4 +1,8 @@
 # deep-learning-challenge
+The 'deep-learning-challenge' folder contains two files:
+* started_code.ipynb: contians the code for preprocessing and building of the initial model.
+* AlphabetSoupCharity_Optimization: contains the code for preprocessing and attempt 1-3 of building an optimized model.
+
 
 # Module 21 Report
 
